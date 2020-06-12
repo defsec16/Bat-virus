@@ -6,3 +6,5 @@ OFF-Pc.bat выключить компьютер
 reset.bat перезагрузка пк
 
 dontuse.bat Запрещает запускать программы
+
+offwindows.bat Удаляет звуки Windows
